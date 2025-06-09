@@ -1,7 +1,7 @@
 ﻿local L0 = require 'ffi'
 local L1 = require 'bit'
 local L2 = require "vector"
-local L3 = require "gamesense/antiaim_funcs" or error "Antiaim_funcs library required"
+local L3 = require "gamesense/antiaim_funcs" or error ("Antiaim_funcs library required")
 local L4 = require "gamesense/surface"
 local L5 = require "gamesense/base64" or error("Base64 library required")
 local L6 = require "gamesense/clipboard" or error("Clipboard library required")
