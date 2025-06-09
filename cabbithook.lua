@@ -968,7 +968,7 @@ function L415:think(L422, L423)
     end
 end;
 g_notify = L415:new()
-local L440 = { "raped by cabbithook", "1 hdf nn ez mappa", "effortless tap", ".gg/98ZWBYWxJB", "cabbithook raped you", "ez 1", "resolved :3", "-1", "1?", "gg nice try <3", ".gg/c8d", "effortlessly oned by cabbithook", "cabbithook raped u :3", "cabbit supremacy", "skeet invite code in morse: ... .-- ..-. -.-- -... .-- ..-. -... .--- --.. -... .-.. -.- .... ..-. .-.. -.- --. .. .-. .--. --. .-.. --.- --.- - -.-- .---- -..- . .-- -.- -.-- --.- ---.. .-.. ....d ... ...- --.. -..- -.. .--. -..- -- -... - -.--" }
+local L440 = { "raped by cabbithook", "1 hdf nn ez mappa", "effortless tap", ".gg/98ZWBYWxJB", "cabbithook raped you", "ez 1", "resolved :3", "-1", "1?", "gg nice try <3", ".gg/c8d", "effortlessly oned by cabbithook", "cabbit supremacy", "skeet invite code in morse: ... .-- ..-. -.-- -... .-- ..-. -... .--- --.. -... .-.. -.- .... ..-. .-.. -.- --. .. .-. .--. --. .-.. --.- --.- - -.-- .---- -..- . .-- -.- -.-- --.- ---.. .-.. ....d ... ...- --.. -..- -.. .--. -..- -- -... - -.--" }
 last_random = 0;
 new_random = 0;
 textalhao = ""
