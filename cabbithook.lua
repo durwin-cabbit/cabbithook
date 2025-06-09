@@ -200,7 +200,7 @@ for L74 = 1, 64 do
     L73[L74] = { stand = {}, stand_type = {}, run = {}, run_type = {}, air = {}, air_type = {}, duck = {}, duck_type = {} }
 end;
 local L75 = {
-    ["user"] = entity.get_player_name(entity.get_locasl_player()) or "cabbit",
+    ["user"] = "made by cabbit, for cabbits",
     ["build"] = "recode"
 }
 local L76 = L24.new_checkbox("AA", "Anti-aimbot angles", "cabbithook - " .. L22.lower(L75["user"]))
